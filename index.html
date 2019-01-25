@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="de">
+  <head>
+
+      <!-- Metas -->
+      <meta charset='utf-8' />
+      <meta name='viewport' content='initial-scale=1,maximum-scale=1' />
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+      <title>Spaeti Finder</title>
+
+      <!-- Link to Styles -->
+      <link rel="stylesheet" href="styles.css">
+
+      <!-- PWA Link to Manifest -->
+      <link rel="manifest" href="./manifest.json">
+
+      <!-- Link to Src Mapbox -->
+      <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.52.0/mapbox-gl.js'></script>
+      <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.52.0/mapbox-gl.css' rel='stylesheet' />
+
+      <!-- Sprache nach User-Agent automatisch ändern -->
+      <script src='https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-language/v0.10.0/mapbox-gl-language.js'></script>
+ 
+     
+
+  </head>
+
+  <body>
+
+    <header> </header>
+
+      <!-- Directions -->
+
+      <script src='https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-directions/v4.0.0/mapbox-gl-directions.js'></script>
+      <link rel='stylesheet' href='https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-directions/v4.0.0/mapbox-gl-directions.css' type='text/css' />
+
+      <!-- Geocoder -->
+
+      <script src='https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v2.3.0/mapbox-gl-geocoder.min.js'></script>
+      <link rel='stylesheet' href='https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v2.3.0/mapbox-gl-geocoder.css' type='text/css' />
+
+      <!-- div map -->
+
+      <div id='map'></div>
+
+      <!-- Title >> wieso button? kann man auch text mit schwarzen rand machen -->
+
+      <a id="buttons" class="button" style="background-color:'black'">Spätifinder</a>
+
+      <!-- PWA-Script -->
+      
+      <script src="./app.js"></script>
+      
+      <!-- PWA-Script  
+      <script src="./scripts/app.js" async></script> 
+      -->
+
+  </body>
+
+</html>

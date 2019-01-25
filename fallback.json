@@ -1,0 +1,18 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Du bist gerade offline.",
+        "description": "Versuche die Seite erneut zu laden, sobald du wieder online bist.",
+        "titleproductrange": "images/fetch-offline.jpg",
+        "productrange": "Bist du durstig?",
+        "titleopeninghours": "Hungrig?",
+        "openinghours": "Du weisst nicht was du willst?",
+        "titleURL": "Mhmmmm",
+        "URL": "Vielleicht klappt es jetzt wieder.",
+        "rating": "Versuche es!"
+    }
+  }
+]
+}
