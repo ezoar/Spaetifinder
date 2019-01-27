@@ -1,11 +1,11 @@
 {
-  "name": "Spaetis in Leipzig",
-  "short_name": "Spaetifinder",
+  "name": "Spätis in Leipzig",
+  "short_name": "Spätifinder",
   "theme_color": "#ffffff",
   "background_color": "#ffffff",
   "display": "standalone",
   "Scope": "/",
-  "start_url": "/",
+  "start_url": "https://ezoar.github.io/",
   "icons": [
     {
       "src": "images/icons/icon-72x72.png",
