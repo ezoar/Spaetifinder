@@ -1,5 +1,4 @@
 // Token and Fixing Center-Point of Map 
-
   
   // Token
 
@@ -40,14 +39,13 @@
   });
 
 
-
 // Directions
 
   map.addControl(new MapboxDirections({
     accessToken: mapboxgl.accessToken
   }), 'bottom-left');
 
-  // Geocoder
+// Geocoder
 
   map.addControl(new MapboxGeocoder({
     accessToken: mapboxgl.accessToken
