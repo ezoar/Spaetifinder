@@ -3,7 +3,7 @@
   
   // Token
 
-  mapboxgl.accessToken = 'pk.eyJ1IjoiZW8tbWFwYm94IiwiYSI6ImNqcjEwYWN4ZzAzNDgzeXJzdGtlbGduNGgifQ.TBbP0PVssrORXh4sFvoOMA'; // replace this with your access token
+  mapboxgl.accessToken = 'pk.eyJ1IjoiZW8tbWFwYm94IiwiYSI6ImNqcjEwYWN4ZzAzNDgzeXJzdGtlbGduNGgifQ.TBbP0PVssrORXh4sFvoOMA'; // access token
   var map = new mapboxgl.Map({
     container: 'map',
     style: 'mapbox://styles/eo-mapbox/cjrfeenoz33wp2so4s7yer4b7',
