@@ -1,4 +1,4 @@
-/* Catch all our static assets in our application, so we can serve 
+/* We catch here all the static assets of our application, so we can serve 
 them from the catch and get a really fast start-up time for application
 and be sure that we can display something when we are offline.
 */
@@ -16,17 +16,6 @@ and be sure that we can display something when we are offline.
 
 // Install-Event: Service Worker is discovered and gets installed
 
-  // Erste Möglichkeit
-
-  /*
-  self.addEventListener('install', async function () {
-    const cache = await caches.open(cacheName);
-    cache.addAll(staticAssets);
-  });
-  */ 
-
-  // Zweite Möglichkeit
-
   self.addEventListener('install', async event => {
     const cache = await caches.open('spaetis-static');
     cache.addAll(staticAssets);
@@ -39,7 +28,7 @@ and be sure that we can display something when we are offline.
 // Fetch Event: Service Worker intercepts any network request going out from our application to the net
 
 self.addEventListener('fetch', event => {
-  const request = event.request; // define how we want to respond to an fetch event
+  const request = event.request; // Define how we want to respond to an fetch event
   const url = new URL(request.url); 
   if (url.origin === location.origin) {
     event.respondWith(cacheFirst(request)); // First respond with cache. If nothing is there, then...
