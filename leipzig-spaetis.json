@@ -3,7 +3,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Suedplatzspaeti",
+        "title": "Suedplatzspäti",
         "description": "Der Spätverkauf in der Leipziger Südvorstadt.",
         "titleproductrange": "Sortiment",
         "productrange": "Produkt 1, Produkt 2, Produkt 3, Produkt 4",
@@ -108,7 +108,7 @@
     {
         "type": "Feature",
       "properties": {
-        "title": "Suedplatzspaeti",
+        "title": "Suedplatzspäti",
         "description": "Nicht nur Späti, sondern auch Bistro: Hot Dogs, Pommes, selbstgemachte Saucen, Currywurst, Cupcakes, Spirituosen, Tabak, Kuchen etc. – alles vegan.",
         "titleproductrange": "Sortiment",
         "productrange": "Getränke, Nahrungsmittel, Tabak, Zeitschriften",
@@ -143,27 +143,6 @@
         "coordinates": [
           12.376868,
           51.30851
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Vleischerei",
-        "description": "Vegetarisch/veganes Bistro und Späti.",
-        "titleproductrange": "Sortiment",
-        "productrange": "Produkt 1, Produkt 2, Produkt 3, Produkt 4",
-        "titleopeninghours": "OEFFNUNGSZEITEN",
-        "openinghours": "Mo - Sa: 14:00 - 23:00 und So: 10:00 - 22:00",
-        "titleURL": "Homepage",
-        "URL": "HOMEPAGE_LINK",
-        "rating": "Bewerte hier!"
-      },
-      "geometry": {
-        "coordinates": [
-          12.33884,
-          51.332219
         ],
         "type": "Point"
       }
