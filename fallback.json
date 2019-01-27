@@ -3,16 +3,171 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Du bist gerade offline.",
-        "description": "Versuche die Seite erneut zu laden, sobald du wieder online bist.",
-        "titleproductrange": "images/fetch-offline.jpg",
-        "productrange": "Bist du durstig?",
-        "titleopeninghours": "Hungrig?",
-        "openinghours": "Du weisst nicht was du willst?",
-        "titleURL": "Mhmmmm",
-        "URL": "Vielleicht klappt es jetzt wieder.",
-        "rating": "Versuche es!"
+        "title": "Suedplatzspäti",
+        "description": "Der Spätverkauf in der Leipziger Südvorstadt.",
+        "titleproductrange": "Sortiment",
+        "productrange": "Produkt 1, Produkt 2, Produkt 3, Produkt 4",
+        "titleopeninghours": "Oeffnugszeiten",
+        "openinghours": "Mo - Sa: 14:00 - 23:00 und So: 10:00 - 22:00",
+        "titleURL": "Homepage",
+        "URL": "HOMEPAGE_LINK",
+        "rating": "Bewerte hier!"
+      },
+      "geometry": {
+        "coordinates": [
+          12.372704,
+          51.324171
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Onkel Toms Huette",
+        "description": "Direkt an der Haltestelle A.-Hoffmann-/R.-Lehmann-Straße gibt es hier alles, was das Späti-Herz begehrt.",
+        "titleproductrange": "Sortiment",
+        "productrange": "Produkt 1, Produkt 2, Produkt 3, Produkt 4",
+        "titleopeninghours": "OEFFNUNGSZEITEN",
+        "openinghours": "Mo - Sa: 14:00 - 23:00 und So: 10:00 - 22:00",
+        "titleURL": "Homepage",
+        "URL": "HOMEPAGE_LINK",
+        "rating": "Bewerte hier!"
+      },
+      "geometry": {
+        "coordinates": [
+          12.378134,
+          51.315346
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Lazy Dog",
+        "description": "Der faule Hund ist schon eine Klasse für sich.",
+        "titleproductrange": "Sortiment",
+        "productrange": "Produkt 1, Produkt 2, Produkt 3, Produkt 4",
+        "titleopeninghours": "OEFFNUNGSZEITEN",
+        "openinghours": "Mo - Sa: 14:00 - 23:00 und So: 10:00 - 22:00",
+        "titleURL": "Homepage",
+        "URL": "HOMEPAGE_LINK",
+        "rating": "Bewerte hier!"
+      },
+      "geometry": {
+        "coordinates": [
+          12.373062,
+          51.308369
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Buthwo Getränkemarkt",
+        "description": "Nebst schicken Bollywood-Plakaten bietet der Späti Snacks, Bier (Sterni z.B. 70 Cent), Club Mate (1,20€) und Tiefkühlpizzen.",
+        "titleproductrange": "Sortiment",
+        "productrange": "Produkt 1, Produkt 2, Produkt 3, Produkt 4",
+        "titleopeninghours": "OEFFNUNGSZEITEN",
+        "openinghours": "Mo - Sa: 14:00 - 23:00 und So: 10:00 - 22:00",
+        "titleURL": "Homepage",
+        "URL": "HOMEPAGE_LINK",
+        "rating": "Bewerte hier!"
+      },
+      "geometry": {
+        "coordinates": [
+          12.332589,
+          51.331314
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Team 62 Späti",
+        "titleproductrange": "Sortiment",
+        "description": "Arabische Lebensmittel, Bio-Waren, Spirituosen, Eis, Konserven u.v.m.",
+        "productrange": "Produkt 1, Produkt 2, Produkt 3, Produkt 4",
+        "titleopeninghours": "OEFFNUNGSZEITEN",
+        "openinghours": "Mo - Sa: 14:00 - 23:00 und So: 10:00 - 22:00",
+        "titleURL": "Homepage",
+        "URL": "HOMEPAGE_LINK",
+        "rating": "Bewerte hier!"
+      },
+      "geometry": {
+        "coordinates": [
+          12.334063,
+          51.329952
+        ],
+        "type": "Point"
+      }
+    },
+    {
+        "type": "Feature",
+      "properties": {
+        "title": "Testspäti",
+        "description": "Nicht nur Späti, sondern auch Bistro: Hot Dogs, Pommes, selbstgemachte Saucen, Currywurst, Cupcakes, Spirituosen, Tabak, Kuchen etc. – alles vegan.",
+        "titleproductrange": "Sortiment",
+        "productrange": "Getränke, Nahrungsmittel, Tabak, Zeitschriften",
+        "titleopeninghours": "OEFFNUNGSZEITEN",
+        "openinghours": "Mo - Sa: 14:00 - 23:00 und So: 10:00 - 22:00",
+        "titleURL": "Homepage",
+        "URL": "HOMEPAGE_LINK",
+        "rating": "Bewerte hier!"
+      },
+      "geometry": {
+        "coordinates": [
+          12.40631,
+          51.33669
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Pink Panther",
+        "description": "Spätverkauf im Süden Leipzigs.",
+        "titleproductrange": "Sortiment",
+        "productrange": "Produkt 1, Produkt 2, Produkt 3, Produkt 4",
+        "titleopeninghours": "OEFFNUNGSZEITEN",
+        "openinghours": "Mo - Sa: 14:00 - 23:00 und So: 10:00 - 22:00",
+        "titleURL": "Homepage",
+        "URL": "HOMEPAGE_LINK",
+        "rating": "Bewerte hier!"
+      },
+      "geometry": {
+        "coordinates": [
+          12.376868,
+          51.30851
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "titlename": "Le Cygne",
+        "description": "Kaffee, Limo, Bier, Baguettes, veganen Snacks und mehr.",
+        "titleproductrange": "Sortiment",
+        "productrange": "Produkt 1, Produkt 2, Produkt 3, Produkt 4",
+        "titleopeninghours": "OEFFNUNGSZEITEN",
+        "openinghours": "Mo - Sa: 14:00 - 23:00 und So: 10:00 - 22:00",
+        "titleURL": "Homepage",
+        "URL": "HOMEPAGE_LINK",
+        "rating": "Bewerte hier!"
+      },
+      "geometry": {
+        "coordinates": [
+          12.335593,
+          51.331733
+        ],
+        "type": "Point"
+      }
     }
-  }
-]
+  ],
+  "type": "FeatureCollection"
 }
