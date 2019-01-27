@@ -3,28 +3,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Vleischerei",
-        "description": "Vegetarisch/veganes Bistro und Späti.",
-        "titleproductrange": "SORTIMENT",
-        "productrange": "Produkt 1, Produkt 2, Produkt 3, Produkt 4",
-        "titleopeninghours": "OEFFNUNGSZEITEN",
-        "openinghours": "Mo - Sa: 14:00 - 23:00 und So: 10:00 - 22:00",
-        "URL": "HOMEPAGE",
-        "rating": "Bewerte hier!",
-        "titleURL": "HOMEPAGE"
-      },
-      "geometry": {
-        "coordinates": [
-          12.33884,
-          51.332219
-        ],
-        "type": "Point"
-      },
-      "id": "191fedd954214595a65a795e6f0d1290"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Le Cygne",
         "description": "Kaffee, Limo, Bier, Baguettes, veganen Snacks und mehr.",
         "productrange": "Produkt 1, Produkt 2, Produkt 3, Produkt 4",
