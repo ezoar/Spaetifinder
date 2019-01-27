@@ -88,6 +88,7 @@
       "type": "Feature",
       "properties": {
         "title": "Team 62 Späti",
+        "description": "Hallo. Wir sind Team 62.",
         "titleproductrange": "Sortiment",
         "description": "Arabische Lebensmittel, Bio-Waren, Spirituosen, Eis, Konserven u.v.m.",
         "productrange": "Produkt 1, Produkt 2, Produkt 3, Produkt 4",
@@ -107,9 +108,9 @@
     },
     {
         "type": "Feature",
-      "properties": {
-        "title": "Suedplatzspäti",
-        "description": "Nicht nur Späti, sondern auch Bistro: Hot Dogs, Pommes, selbstgemachte Saucen, Currywurst, Cupcakes, Spirituosen, Tabak, Kuchen etc. – alles vegan.",
+        "properties": {
+        "title": "Testpäti",
+        "description": "Wir haben alles.",
         "titleproductrange": "Sortiment",
         "productrange": "Getränke, Nahrungsmittel, Tabak, Zeitschriften",
         "titleopeninghours": "OEFFNUNGSZEITEN",
